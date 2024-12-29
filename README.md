@@ -4,7 +4,7 @@ Full Featured Chat Web App with User-to-User and User to Group Real Time chattin
 Built with React, Redux, Laravel, PMySQL and powered by WebSockets. You have to host in your Local Machine
 
 <img width="450px;" src="https://github.com/SwagyXD/"/>
-
+![Screenshot 2024-12-30 012720](https://github.com/user-attachments/assets/b9190638-c227-48f2-8a3e-c9433f0453bc)
 ## ⭐ Features
 
 - Public chatting with all user in site.
@@ -12,6 +12,7 @@ Built with React, Redux, Laravel, PMySQL and powered by WebSockets. You have to 
 - User To User Private Messaging
 
 ## ✅ Requirements
+
 
 - PHP 7.2
 - Composer
