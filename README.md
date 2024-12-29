@@ -3,7 +3,7 @@
 Full Featured Chat Web App with User-to-User and User to Group Real Time chatting, Profile Picture Uploading and Notifications.
 Built with React, Redux, Laravel, PMySQL and powered by WebSockets. You have to host in your Local Machine
 
-<img width="450px;" src=""/>
+<img width="450px;" src="https://github.com/SwagyXD/Get-to-know/blob/main/Screenshot%202024-12-30%20012720.png?raw=true"/>
 
 ## ⭐ Features
 
